@@ -1,7 +1,3 @@
-Certainly! Here's a draft for your GitHub profile README file:
-
----
-
 # 👋 Hi, I'm Ahmed Mesbah Elbatrawy!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Batrawy0&color=brightgreen)
